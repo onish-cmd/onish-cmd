@@ -24,6 +24,7 @@ I am looking for small Rust bugs to squash or unit tests to write in exchange fo
 * **The Rust Community:** For making `no_std` powerful enough to build the future.
 * **Google:** For making Firebase Studio (Project IDX) which has helped me code on mobile.
 * **Gemini:** My AI thought partner for technical brainstorming and motivation.
+* **Linux Community:** Onish OS is based off of Linux! How could I forget them?
 * **You:** For reading this far.
 
 ### Thank You!
