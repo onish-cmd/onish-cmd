@@ -26,7 +26,7 @@ I am looking for small Rust bugs to squash or unit tests to write in exchange fo
 * **Gemini:** My AI thought partner for technical brainstorming and motivation.
 * **You:** For reading this far.
 
-  ### Thank You!
+### Thank You!
 
 ---
 *"The code is only half the battle; the people behind the machine are what make it run."*
