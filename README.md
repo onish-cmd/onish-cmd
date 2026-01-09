@@ -12,7 +12,7 @@ I am an 11-year-old developer based in Amritsar, Punjab. While most people my ag
 * **Logic:** "If you want it done right, you should just do it yourself." — I don't just use OSs; I build them.
 
 ### 🚀 The Hardware Mission:
-I am currently coding in the cloud (Project IDX) because I am saving up for my first **Milk-V Duo 256M (RISC-V)** board. My goal is to move my `no_std` Rust kernel from the simulator to real bare-metal hardware.
+I am currently coding in the cloud (Project IDX) because I am saving up for my first **Milk-V Duo 256M (RISC-V)** board. My goal is to move my Rust init from the simulator to real bare-metal hardware.
 
 **[ 🛰️ Seeking Bounties & Sponsorships ]**
 I am looking for small Rust bugs to squash or unit tests to write in exchange for hardware funding (₹1,301 / ~$16 USD). 
