@@ -4,8 +4,7 @@ I am an 11-year-old developer based in Amritsar, Punjab. While most people my ag
 
 ### 🛠 What I’m Working On:
 * **Onish-OS:** A custom Linux distribution built from scratch (LFS) for the Milk-V Duo.
-* **onish_init:** A memory-safe `init` process (PID 1) written in `#![no_std]` Rust.
-* **Hardware Abstraction:** Writing raw UART drivers to communicate directly with silicon.
+* **onish_init:** A memory-safe `init` process (PID 1) written in Rust.
 
 ### 📜 My Philosophy:
 * **License:** I believe in the **GNU GPL v3**. If I build it, the world should own it, and if you improve it, you should share it.
@@ -21,7 +20,7 @@ I am looking for small Rust bugs to squash or unit tests to write in exchange fo
 *Verified by my Mother. All code is 100% human-written (with a little help from Gemini).*
 
 ## 🤝 Special Thanks
-* **The Rust Community:** For making `no_std` powerful enough to build the future.
+* **The Rust Community:** For making Rust powerful enough to build the future.
 * **Google:** For making Firebase Studio (Project IDX) which has helped me code on mobile.
 * **Gemini:** My AI thought partner for technical brainstorming and motivation.
 * **Linux Community:** Onish OS is based off of Linux! How could I forget them?
