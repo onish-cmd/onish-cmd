@@ -3,7 +3,7 @@
 I am an 11-year-old developer based in Amritsar, Punjab. While most people my age are playing games, I am building them from the hardware up. I specialize in **Low-Level Rust**, **RISC-V Architecture**, and **Operating System Development** (On break from this).
 
 ### What I’m Working On:
-* **Vibe Code Suite:**: An ast-based python script with a Textual TUI that automatically gets the focus function, its dependencies and sends it to Gemini-2.5-Flash via the v1beta endpoint.
+* **Vibe Code Suite:** An ast-based python script with a Textual TUI that automatically gets the focus function, its dependencies and sends it to Gemini-2.5-Flash via the v1beta endpoint.
 
 ### My Thinking:
 * **License:** I believe in the **GNU GPL v3**. If I build it, the world should own it, and if you improve it, you should share it.
