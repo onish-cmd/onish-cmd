@@ -1,32 +1,19 @@
-# ⚡ Hi, I'm Onish | Systems Architect & Rustacean
+# Hi, I'm Onish | Rustacean & Python Developer
 
-I am an 11-year-old developer based in Amritsar, Punjab. While most people my age are playing games, I am building them from the hardware up. I specialize in **Low-Level Rust**, **RISC-V Architecture**, and **Operating System Development**.
+I am an 11-year-old developer based in Amritsar, Punjab. While most people my age are playing games, I am building them from the hardware up. I specialize in **Low-Level Rust**, **RISC-V Architecture**, and **Operating System Development** (On break from this).
 
-### 🛠 What I’m Working On:
-* **Onish-OS:** A custom Linux distribution built from scratch (LFS) for the Milk-V Duo.
-* **onish_init:** A memory-safe `init` process (PID 1) written in Rust.
+### What I’m Working On:
+* **Vibe Code Suite:**: An ast-based python script with a Textual TUI that automatically gets the focus function, its dependencies and sends it to Gemini-2.5-Flash via the v1beta endpoint.
 
-### 📜 My Philosophy:
+### My Thinking:
 * **License:** I believe in the **GNU GPL v3**. If I build it, the world should own it, and if you improve it, you should share it.
-* **Logic:** "If you want it done right, you should just do it yourself." — I don't just use OSs; I build them.
 
-### 🚀 The Hardware Mission:
-I am currently coding in the cloud (Project IDX) because I am saving up for my first **Milk-V Duo 256M (RISC-V)** board. My goal is to move my Rust init from the simulator to real bare-metal hardware.
+### The Hardware Mission:
+I am currently coding in Termux (Lenovo YT-X705X) because I am saving up for my first real PC. (Need about ₹60,000.)
 
-**[ 🛰️ Seeking Bounties & Sponsorships ]**
-I am looking for small Rust bugs to squash or unit tests to write in exchange for hardware funding (₹1,301 / ~$16 USD). 
-
----
-*Verified by my Mother. All code is 100% human-written (with a little help from Gemini).*
-
-## 🤝 Special Thanks
+## Special Thanks
 * **The Rust Community:** For making Rust powerful enough to build the future.
-* **Google:** For making Firebase Studio (Project IDX) which has helped me code on mobile.
-* **Gemini:** My AI thought partner for technical brainstorming and motivation.
-* **Linux Community:** Onish OS is based off of Linux! How could I forget them?
+* **The Python Community:** For making the python `std` library powerful enough to do In-place replacements.
 * **You:** For reading this far.
 
 ### Thank You!
-
----
-*"The code is only half the battle; the people behind the machine are what make it run."*
